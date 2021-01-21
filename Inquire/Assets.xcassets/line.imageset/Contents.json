@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "jpg-download-collection-of-free-svg-line-horizontal-solid-black-line-11562907347v3hkkvijvx.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
